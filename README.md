@@ -58,8 +58,8 @@ We treat this as a **supervised regression problem**, using **XGBoost** to forec
 ## 🔍 Visual Example
 
 <p align="center">
-  <img src="forecast_plot.png" width="640"/>
-</p>
+</p><img width="738" alt="Screenshot 2025-05-20 at 10 55 25 AM" src="https://github.com/user-attachments/assets/8873c2bc-9a4a-4e05-906e-86d24f67a301" />
+
 
 📉 The model captured trend and seasonality well, though it slightly underpredicted the final December spike.  
 *Actual vs Predicted Weekly Sales (Final 6 Weeks)*
