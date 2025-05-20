@@ -57,8 +57,11 @@ We treat this as a **supervised regression problem**, using **XGBoost** to forec
 
 ## 🔍 Visual Example
 
-![forecast_plot](your_plot_here.png)  <img width="738" alt="Screenshot 2025-05-20 at 10 55 25 AM" src="https://github.com/user-attachments/assets/cc0bd53a-f1bc-483b-a4b1-93123be8b636" />
+<p align="center">
+  <img src="forecast_plot.png" width="640"/>
+</p>
 
+📉 The model captured trend and seasonality well, though it slightly underpredicted the final December spike.  
 *Actual vs Predicted Weekly Sales (Final 6 Weeks)*
 
 ---
@@ -77,6 +80,7 @@ We treat this as a **supervised regression problem**, using **XGBoost** to forec
 |------|-------------|
 | `E-Commerce Sales Forecast.ipynb` | Full modeling notebook |
 | `train_df_ready.csv` / `test_df_ready.csv` | Cleaned datasets (linked externally if large) |
+| `forecast_plot.png` | Visualization of model predictions |
 | `README.md` | This file |
 
 ---
@@ -93,7 +97,7 @@ We treat this as a **supervised regression problem**, using **XGBoost** to forec
 
 **Shawn Waringu**  
 Data Scientist & Analyst | Dubai  
-[LinkedIn](https://www.linkedin.com/in/shawn-chege-856048312) | [GitHub](https://github.com/your-handle)
+[LinkedIn](https://www.linkedin.com/in/shawn-chege-856048312)  
+[GitHub](https://github.com/ShawnyQ)
 
 ---
-
