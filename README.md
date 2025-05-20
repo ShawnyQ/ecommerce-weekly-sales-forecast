@@ -57,7 +57,8 @@ We treat this as a **supervised regression problem**, using **XGBoost** to forec
 
 ## 🔍 Visual Example
 
-![forecast_plot](your_plot_here.png)  
+![forecast_plot](your_plot_here.png)  <img width="738" alt="Screenshot 2025-05-20 at 10 55 25 AM" src="https://github.com/user-attachments/assets/cc0bd53a-f1bc-483b-a4b1-93123be8b636" />
+
 *Actual vs Predicted Weekly Sales (Final 6 Weeks)*
 
 ---
