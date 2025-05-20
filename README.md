@@ -97,7 +97,7 @@ We treat this as a **supervised regression problem**, using **XGBoost** to forec
 
 **Shawn Waringu**  
 Data Scientist & Analyst
-[LinkedIn](https://www.linkedin.com/in/shawn-chege-856048312)  
+[LinkedIn](https://www.linkedin.com/in/shawn-chege-856048312)
 [GitHub](https://github.com/ShawnyQ)
 
 ---
